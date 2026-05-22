@@ -56,4 +56,4 @@ The goal is to make expense awareness easy and actionable.
 
 ## 🔗 Live Demo
 
-(Replace with your Vercel link)
+https://credex-ltfk2ek0x-snehajaiswal2162-star-38646ead.vercel.app/
