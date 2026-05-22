@@ -1,37 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💳 Credex
 
-## Getting Started
+Credex is a smart subscription audit tool that helps users understand where their money is going and how they can save on unnecessary SaaS and subscription expenses.
 
-First, run the development server:
+Instead of manually checking bills and subscriptions, Credex analyzes your spending and shows clear optimization suggestions in seconds.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 What it does
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Takes your subscription data as input  
+- Calculates monthly and yearly spending  
+- Identifies possible savings opportunities  
+- Shows optimized plan suggestions  
+- Lets you simulate “optimization” to reduce costs  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧠 Why I built this
 
-To learn more about Next.js, take a look at the following resources:
+Most people today use multiple subscriptions (Netflix, tools, SaaS apps, etc.) without realizing how much they actually spend.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Credex is built to solve that problem in a simple and visual way.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The goal is to make expense awareness easy and actionable.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Credex
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+
+---
+
+## ⚙️ Features
+
+- Clean dashboard UI
+- Real-time savings calculation
+- Optimization simulation button
+- Dynamic result page
+- Local storage-based data handling
+
+---
+
+## 📸 How it works
+
+1. User enters subscription details  
+2. System calculates total spend  
+3. Credex generates savings report  
+4. User clicks “Optimize Plan” to see improved results  
+
+---
+
+## 🔗 Live Demo
+
+(Replace with your Vercel link)
